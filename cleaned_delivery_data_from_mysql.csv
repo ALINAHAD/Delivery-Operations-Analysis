@@ -1,0 +1,5 @@
+shipment_id,order_id,order_date,origin_city,destination_city,partner_id,pickup_time,out_for_delivery_time,delivered_time,delivery_status,distance_km,total_cost,first_mile_delay_mins,last_mile_duration_mins,total_delivery_time_hrs,delivered_flag
+SHP0001,ORD1001,2025-09-01 08:12:00,Delhi,Mumbai,PRT01,2025-09-01 10:30:00,2025-09-02 09:30:00,2025-09-02 15:10:00,Delivered,1420,175,138.0,340.0,30.966666666666665,True
+SHP0002,ORD1002,2025-09-01 09:00:00,Delhi,Chennai,PRT02,2025-09-01 13:00:00,2025-09-02 12:00:00,,Failed,2180,455,240.0,,,False
+SHP0003,ORD1003,2025-09-02 11:20:00,Noida,Ahmedabad,PRT03,2025-09-02 15:00:00,2025-09-03 09:00:00,2025-09-03 11:45:00,Delivered,900,152,220.0,165.0,24.416666666666668,True
+SHP0004,ORD1004,2025-09-03 07:45:00,Gurgaon,Jaipur,PRT01,2025-09-03 09:00:00,2025-09-04 08:00:00,2025-09-04 10:00:00,Delivered,300,78,75.0,120.0,26.25,True
